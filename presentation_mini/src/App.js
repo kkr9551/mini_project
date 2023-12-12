@@ -54,7 +54,7 @@ function App() {
         <p>
           I selected the JavaScript file as the presentation base. More accurately, I used JSX, an syntax extention to JavaScript. 
           JSX stands for JavaScript XML, allowing us to write HTML in React. In other words, all the components like paragraphs, 
-          images, etc marked with HTML tags will be rendered a variable described by the JSX. It can look like this: const variable = tag + content + the closing tag.
+          images, etc marked with HTML tags will be rendered a variable described by the JSX. It can look like this: const variable = tag + content + the closing tag. 
         </p>
       </section>
 
