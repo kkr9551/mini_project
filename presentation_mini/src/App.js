@@ -56,6 +56,10 @@ function App() {
           JSX stands for JavaScript XML, allowing us to write HTML in React. In other words, all the components like paragraphs, 
           images, etc marked with HTML tags will be rendered a variable described by the JSX. It can look like this: const variable = tag + content + the closing tag. 
         </p>
+
+        <p>
+          I used Chi-square test to analyse the sample data on Thonny. Python packages include pandas, scipy, matplotlib, and seaborn. The last two are tools for visualisation.
+        </p>
       </section>
 
       <section>
